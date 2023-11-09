@@ -27,7 +27,7 @@
 
 To view my portfolio, you have the following options:
 
-1. **Live Website**: Visit the live version of my portfolio on GitHub Pages at [Portfolio](https://your-username.github.io/your-portfolio-repo).
+1. **Live Website**: Visit the live version of my portfolio on GitHub Pages at [Portfolio](https://aibiikeo.github.io/portfolio).
 
 2. **Local Setup**: If you want to run this portfolio locally, follow these steps:
    - Clone this repository to your local machine.
